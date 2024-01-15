@@ -1,5 +1,6 @@
 # Comparative Analysis of CNN-LSTM and ResNet-GRU for Image Captioning on Flickr 8k Dataset
 
+
 ## Overview
 
 This repository contains the implementation and comparison of two deep learning approaches - CNN+LSTM and ResNet+GRU - for the task of image caption generation. We utilize the Flickr 8k Dataset along with pretrained CNN and ResNet models to demonstrate these approaches.
