@@ -41,4 +41,4 @@ This study has provided valuable insights into the comparative performance of CN
     
 -   **Future Directions**: The study opens up potential areas for future research, such as integrating attention mechanisms to improve the focus of the models on relevant parts of the images, or exploring more advanced language models for more coherent and contextually accurate captions.
 
-This project not only contributes to the understanding of neural network-based image captioning but also sets the stage for more innovative and effective solutions in the field.
+
